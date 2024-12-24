@@ -16,14 +16,6 @@ I'm diving into the tools and technologies that will help me bring my ideas to l
 
 ---
 
-## 🌐 Let's Connect:
-- 💼 [Portfolio Website](#) *(Coming Soon!)*
-- 🐦 [Twitter](https://twitter.com/) *(Optional)*
-- 📫 [Email](mailto:youremail@example.com)
-
----
-
-### Thanks for visiting my profile! Feel free to check out my projects and connect with me. Let's build something amazing together! 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/767444889033769030) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28181638) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SEOJIAF) 
