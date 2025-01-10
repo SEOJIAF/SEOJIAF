@@ -4,12 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ---
 
-## 🌟 What I'm About:
-- 💻 **Front-End Enthusiast**: I enjoy crafting responsive, interactive, and accessible user interfaces.
-- ⚙️ **Back-End Curious**: Exploring how things work behind the scenes to make the magic happen.
-- 🎨 **Design Lover**: Striving to create designs that are both beautiful and functional.
 
----
 
 ## 🚀 Currently Learning:
 I'm diving into the tools and technologies that will help me bring my ideas to life and grow as a developer. It's an exciting journey of continuous learning and experimentation!
